@@ -1,8 +1,4 @@
-// ============================================================
-// PHAN 2 - DUONG: Doi tuong khach hang va cap so
-// ============================================================
 #include "Trung_TichHop.h"
-
 using namespace std;
 
 bool capSo(HeThong& h, int viTriQuay, KhachHang& kh, int& soChoTruoc) {
