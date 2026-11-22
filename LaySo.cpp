@@ -17,8 +17,3 @@ bool capSo(HeThong& h, int viTriQuay, KhachHang& kh, int& soChoTruoc) {
     ++h.sttTiepTheo;
     return true;
 }
-
-// ============================================================
-// PHAN 4 - KIEU | File goc: GoiKhach.h
-// Goi khach dau Queue, goi lai va hoan tat phuc vu.
-// ============================================================
