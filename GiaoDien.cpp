@@ -1,4 +1,4 @@
-#include "Trung_TichHop.h"
+#include "TichHop.h"
 #include <iomanip>
 #include <sstream>
 #include <iostream>
