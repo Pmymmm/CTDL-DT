@@ -1,4 +1,4 @@
-#include "Trung_TichHop.h"
+#include "TichHop.h"
 using namespace std;
 
 bool capSo(HeThong& h, int viTriQuay, KhachHang& kh, int& soChoTruoc) {
