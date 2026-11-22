@@ -1,8 +1,4 @@
-// ============================================================
-// PHAN 6 - TRUNG: Ket noi, thong ke, giai phong tai nguyen
-// ============================================================
 #include "Trung_TichHop.h"
-
 using namespace std;
 
 ThongKeHeThong layThongKe(const HeThong& h) {
