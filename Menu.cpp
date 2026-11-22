@@ -1,4 +1,3 @@
-// PHAN 5 - HAU: Menu va tuong tac nguoi dung
 #include "Trung_TichHop.h"
 #include <iostream>
 #include <sstream>
