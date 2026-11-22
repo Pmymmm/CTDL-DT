@@ -1,6 +1,3 @@
-// ============================================================
-// PHAN 3 - PHONG: Khoi tao va quan ly quay giao dich
-// ============================================================
 #include "Trung_TichHop.h"
 #include <string>
 #include <vector>
@@ -20,7 +17,6 @@ bool khoiTaoThuCong(
     HeThong& h,
     const vector<pair<string, string>>& danhSach
 ) {
-    // Xac minh TOAN BO du lieu truoc khi xoa he thong cu.
     if (danhSach.empty() || danhSach.size() > 20) {
         return false;
     }
