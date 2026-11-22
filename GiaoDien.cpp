@@ -1,6 +1,3 @@
-// ============================================================
-// PHAN 5 - HAU: Man hinh cho va thong ke
-// ============================================================
 #include "Trung_TichHop.h"
 #include <iomanip>
 #include <sstream>
