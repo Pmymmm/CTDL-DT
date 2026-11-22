@@ -5,10 +5,7 @@
 #include <string>
 #include <utility>
 
-// ============================================================
-// PHAN 3 - PHONG | File goc: phong.cpp
-// Moi quay co 1 muc dich, 1 hang doi va thong tin phuc vu.
-// ============================================================
+
 struct QuayGiaoDich {
     int id = 0;
     std::string tenQuay;
