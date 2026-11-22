@@ -74,7 +74,7 @@ int main() {
             }
         }
     } catch (const runtime_error&) {
-        cout << "\nDa ket thuc dau vao.\n";
+        cout << "\nDa ket thuc.\n";
     }
 
     giaiPhongHeThong(h);
