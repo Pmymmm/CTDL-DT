@@ -1,4 +1,4 @@
-#include "Trung_TichHop.h"
+#include "TichHop.h"
 using namespace std;
 
 bool hoanTat(HeThong& h, int viTriQuay) {
