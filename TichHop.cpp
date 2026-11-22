@@ -15,7 +15,6 @@ ThongKeHeThong layThongKe(const HeThong& h) {
 }
 
 void giaiPhongHeThong(HeThong& h) {
-    // Moi HangDoi tu giai phong cac nut khi vector.clear().
     h.quay.clear();
     h.sttTiepTheo = 1;
     h.coGoi = false;
