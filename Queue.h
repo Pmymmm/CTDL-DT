@@ -1,7 +1,7 @@
 #ifndef QUEUE_H
 #define QUEUE_H
 
-#include "Duong_Customer.h"
+#include "Customer.h"
 #include <utility>
 
 struct NutQueue {
