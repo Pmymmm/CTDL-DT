@@ -4,11 +4,6 @@
 #include "Duong_Customer.h"
 #include <utility>
 
-// ============================================================
-// PHAN 1 - DANH | File goc: HeThongLaySo.cpp
-// Hang doi FIFO duoc cai dat bang danh sach lien ket don.
-// Them, lay, xem phan tu dau tien: O(1).
-// ============================================================
 struct NutQueue {
     KhachHang data;
     NutQueue* next = nullptr;
@@ -21,11 +16,11 @@ struct HangDoi {
 
     HangDoi() = default;
 
-    // Khong cho sao chep con tro, tranh giai phong 2 lan.
+    
     HangDoi(const HangDoi&) = delete;
     HangDoi& operator=(const HangDoi&) = delete;
 
-    // Cho phep vector di chuyen quay ma khong sao chep Queue.
+   
     HangDoi(HangDoi&& other) noexcept {
         front = other.front;
         rear = other.rear;
