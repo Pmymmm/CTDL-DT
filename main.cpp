@@ -1,10 +1,10 @@
-#include "Trung_TichHop.h"
-#include "Trung_TichHop.cpp"
-#include "Phong_KhoiTao.cpp"
-#include "Duong_LaySo.cpp"
-#include "Kieu_GoiKhach.cpp"
-#include "Hau_GiaoDien.cpp"
-#include "Hau_Menu.cpp"
+#include "TichHop.h"
+#include "TichHop.cpp"
+#include "KhoiTao.cpp"
+#include "LaySo.cpp"
+#include "GoiKhach.cpp"
+#include "GiaoDien.cpp"
+#include "Menu.cpp"
 
 #include <iostream>
 #include <stdexcept>
