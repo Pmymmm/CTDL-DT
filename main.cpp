@@ -1,7 +1,3 @@
-// PHAN 6 - TRUNG: Tich hop chuong trinh va diem khoi chay duy nhat.
-// Mo main.cpp va bam Run C/C++ File trong VS Code.
-// Kieu nap cac file .cpp nay de VS Code bien dich rieng main.cpp.
-// KHONG them cac file .cpp khac vao cung lenh bien dich main.cpp.
 #include "Trung_TichHop.h"
 #include "Trung_TichHop.cpp"
 #include "Phong_KhoiTao.cpp"
