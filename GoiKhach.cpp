@@ -1,8 +1,4 @@
-// ============================================================
-// PHAN 4 - KIEU: Goi tiep, goi lai, hoan tat
-// ============================================================
 #include "Trung_TichHop.h"
-
 using namespace std;
 
 bool hoanTat(HeThong& h, int viTriQuay) {
@@ -54,7 +50,3 @@ bool goiLai(const HeThong& h, int viTriQuay) {
     return h.quay[viTriQuay].coKhach;
 }
 
-// ============================================================
-// PHAN 5 - HAU | File goc: ManHinhGiaoDien.cpp.cpp
-// Cac man hinh hien thi de nguoi dung quan sat hang cho.
-// ============================================================
